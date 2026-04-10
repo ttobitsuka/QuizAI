@@ -1,0 +1,32 @@
+[
+  {
+    "question": "日本の首都はどこですか？",
+    "choices": ["大阪", "東京", "名古屋", "福岡"],
+    "answer_index": 1,
+    "category": "地理"
+  },
+  {
+    "question": "水の化学式はどれですか？",
+    "choices": ["CO2", "H2O", "O2", "NaCl"],
+    "answer_index": 1,
+    "category": "理科"
+  },
+  {
+    "question": "次のうち哺乳類はどれですか？",
+    "choices": ["サメ", "イルカ", "カメ", "イカ"],
+    "answer_index": 1,
+    "category": "生物"
+  },
+  {
+    "question": "『走れメロス』の作者は誰ですか？",
+    "choices": ["芥川龍之介", "太宰治", "夏目漱石", "森鴎外"],
+    "answer_index": 1,
+    "category": "国語"
+  },
+  {
+    "question": "3 + 5 × 2 の答えはどれですか？",
+    "choices": ["16", "13", "10", "11"],
+    "answer_index": 1,
+    "category": "算数"
+  }
+]
